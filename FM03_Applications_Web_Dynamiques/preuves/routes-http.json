@@ -1,0 +1,68 @@
+[
+  {
+    "url": "http://127.0.0.1:4173/ateliers",
+    "status": 200,
+    "html": 498,
+    "titre": "SkillHub · Ateliers pratiques"
+  },
+  {
+    "url": "http://127.0.0.1:4173/mon-espace",
+    "status": 200,
+    "html": 498,
+    "titre": "SkillHub · Ateliers pratiques"
+  },
+  {
+    "url": "http://127.0.0.1:4173/mes-ateliers",
+    "status": 200,
+    "html": 498,
+    "titre": "SkillHub · Ateliers pratiques"
+  },
+  {
+    "url": "http://127.0.0.1:4173/creer-atelier",
+    "status": 200,
+    "html": 498,
+    "titre": "SkillHub · Ateliers pratiques"
+  },
+  {
+    "url": "http://127.0.0.1:4173/inconnue",
+    "status": 200,
+    "html": 498,
+    "titre": "SkillHub · Ateliers pratiques"
+  },
+  {
+    "url": "http://127.0.0.1:4175/ateliers",
+    "status": 200,
+    "html": 12373,
+    "titre": "Les ateliers · SkillHub"
+  },
+  {
+    "url": "http://127.0.0.1:4175/ateliers/a1",
+    "status": 200,
+    "html": 8598,
+    "titre": "HTML/CSS : votre première page · SkillHub"
+  },
+  {
+    "url": "http://127.0.0.1:4175/mon-espace",
+    "status": 200,
+    "html": 7555,
+    "titre": "SkillHub"
+  },
+  {
+    "url": "http://127.0.0.1:4175/mes-ateliers",
+    "status": 200,
+    "html": 7130,
+    "titre": "SkillHub"
+  },
+  {
+    "url": "http://127.0.0.1:4175/creer-atelier",
+    "status": 200,
+    "html": 6995,
+    "titre": "SkillHub"
+  },
+  {
+    "url": "http://127.0.0.1:4175/ateliers/absent",
+    "status": 200,
+    "html": 10729,
+    "titre": "SkillHub"
+  }
+]

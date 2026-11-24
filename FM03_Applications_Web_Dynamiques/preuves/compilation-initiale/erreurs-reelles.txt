@@ -1,0 +1,106 @@
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(7,25): error TS18047: 'menu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(7,30): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(7,45): error TS18047: 'boutonMenu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(11,48): error TS18047: 'menu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(11,48): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(12,5): error TS18047: 'boutonMenu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(12,16): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(12,31): error TS18047: 'menu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(12,36): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(12,52): error TS18047: 'boutonMenu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(14,5): error TS18047: 'boutonMenu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(14,16): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(15,9): error TS18047: 'menu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(15,48): error TS18047: 'boutonMenu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(15,59): error TS2339: Property 'focus' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(21,1): error TS18047: 'boutonMenu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(22,18): error TS18047: 'boutonMenu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(23,3): error TS18047: 'menu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(23,8): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(23,25): error TS18047: 'boutonMenu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(26,53): error TS18047: 'menu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(26,58): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(27,19): error TS18047: 'boutonMenu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(27,30): error TS2339: Property 'focus' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(30,1): error TS18047: 'menu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(31,7): error TS18047: 'e.target' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(31,16): error TS2339: Property 'closest' does not exist on type 'EventTarget'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(32,42): error TS18047: 'e.target' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(32,51): error TS2339: Property 'closest' does not exist on type 'EventTarget'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(38,31): error TS18047: 'menu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(38,36): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(38,47): error TS18047: 'e.target' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(38,56): error TS2339: Property 'closest' does not exist on type 'EventTarget'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(39,27): error TS18047: 'menu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(40,38): error TS18047: 'boutonMenu' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(40,49): error TS2339: Property 'focus' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(44,1): error TS18047: 'filtres' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(44,9): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(46,18): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(46,59): error TS2339: Property 'value' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(47,19): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(47,61): error TS2339: Property 'value' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(50,49): error TS2339: Property 'dataset' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(50,108): error TS2339: Property 'dataset' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(51,5): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(53,3): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(54,3): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(54,45): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(56,1): error TS18047: 'filtres' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(57,1): error TS18047: 'filtres' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(58,1): error TS18047: 'filtres' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(60,1): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(60,36): error TS2339: Property 'disabled' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(62,1): error TS18047: 'formulaire' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(62,12): error TS2339: Property 'noValidate' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(63,20): error TS18047: 'formulaire' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(65,24): error TS7006: Parameter 'champ' implicitly has an 'any' type.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(71,19): error TS7006: Parameter 'champ' implicitly has an 'any' type.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(75,3): error TS18047: 'erreur' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(75,33): error TS18047: 'erreur' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(75,40): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(82,5): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(83,5): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(83,47): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(85,84): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(87,1): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(88,7): error TS18047: 'e.target' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(88,16): error TS2339: Property 'value' does not exist on type 'EventTarget'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(89,5): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(89,47): error TS2339: Property 'value' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(95,5): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(95,47): error TS2339: Property 'value' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(95,60): error TS2339: Property 'dataset' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(96,5): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(96,39): error TS2339: Property 'value' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(98,5): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(98,39): error TS2339: Property 'focus' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(102,1): error TS18047: 'formulaire' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(105,3): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(109,5): error TS18047: 'resume' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(109,12): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(109,28): error TS18047: 'resume' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(109,137): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(110,16): error TS2339: Property 'focus' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(112,3): error TS18047: 'resume' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(112,10): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(114,3): error TS18047: 'bouton' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(114,49): error TS18047: 'bouton' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(114,96): error TS18047: 'formulaire' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(117,5): error TS18047: 'confirmation' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(118,5): error TS18047: 'bouton' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(118,46): error TS18047: 'bouton' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(118,93): error TS18047: 'formulaire' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(123,12): error TS18047: 'dialog' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(123,19): error TS2339: Property 'showModal' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(124,3): error TS18047: 'ouvrir' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(124,10): error TS2339: Property 'hidden' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(125,3): error TS18047: 'ouvrir' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(125,42): error TS18047: 'dialog' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(125,49): error TS2339: Property 'showModal' does not exist on type 'Element'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(126,3): error TS2531: Object is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(126,76): error TS18047: 'dialog' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(126,83): error TS2551: Property 'close' does not exist on type 'Element'. Did you mean 'closest'?
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(127,3): error TS18047: 'dialog' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(127,42): error TS18047: 'ouvrir' is possibly 'null'.
+outputs/SkillHub_FM03_FM04_Wissam_Ben_Zayed/preuves/compilation-initiale/skillhub-avant-typage.ts(127,49): error TS2339: Property 'focus' does not exist on type 'Element'.

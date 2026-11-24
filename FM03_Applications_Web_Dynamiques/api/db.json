@@ -1,0 +1,149 @@
+{
+  "ateliers": [
+    {
+      "id": "a1",
+      "titre": "HTML/CSS : votre première page",
+      "niveau": "debutant",
+      "prix": 0,
+      "formateur": "Sarah",
+      "places": 12,
+      "duree": 150,
+      "description": "Un atelier pratique pour apprendre : html/css : votre première page. Exercices guidés, corrections et support inclus.",
+      "date": "2026-12-05",
+      "format": "En ligne"
+    },
+    {
+      "id": "a2",
+      "titre": "JavaScript : rendre une page interactive",
+      "niveau": "intermediaire",
+      "prix": 49,
+      "formateur": "Karim",
+      "places": 8,
+      "duree": 150,
+      "description": "Un atelier pratique pour apprendre : javascript : rendre une page interactive. Exercices guidés, corrections et support inclus.",
+      "date": "2026-12-05",
+      "format": "En ligne"
+    },
+    {
+      "id": "a3",
+      "titre": "Git : collaborer sans perdre son travail",
+      "niveau": "debutant",
+      "prix": 29,
+      "formateur": "Lina",
+      "places": 10,
+      "duree": 150,
+      "description": "Un atelier pratique pour apprendre : git : collaborer sans perdre son travail. Exercices guidés, corrections et support inclus.",
+      "date": "2026-12-05",
+      "format": "En ligne"
+    },
+    {
+      "id": "a4",
+      "titre": "TypeScript : des données fiables",
+      "niveau": "intermediaire",
+      "prix": 59,
+      "formateur": "Karim",
+      "places": 6,
+      "duree": 150,
+      "description": "Un atelier pratique pour apprendre : typescript : des données fiables. Exercices guidés, corrections et support inclus.",
+      "date": "2026-12-05",
+      "format": "En ligne"
+    },
+    {
+      "id": "a5",
+      "titre": "Accessibilité : naviguer au clavier",
+      "niveau": "debutant",
+      "prix": 0,
+      "formateur": "Sarah",
+      "places": 15,
+      "duree": 150,
+      "description": "Un atelier pratique pour apprendre : accessibilité : naviguer au clavier. Exercices guidés, corrections et support inclus.",
+      "date": "2026-12-05",
+      "format": "En ligne"
+    },
+    {
+      "id": "a6",
+      "titre": "React : composants et état",
+      "niveau": "intermediaire",
+      "prix": 69,
+      "formateur": "Lina",
+      "places": 8,
+      "duree": 150,
+      "description": "Un atelier pratique pour apprendre : react : composants et état. Exercices guidés, corrections et support inclus.",
+      "date": "2026-12-05",
+      "format": "En ligne"
+    },
+    {
+      "id": "a7",
+      "titre": "CSS Grid : une mise en page responsive avec des contenus longs et des cartes de tailles différentes",
+      "niveau": "intermediaire",
+      "prix": 39,
+      "formateur": "Sarah",
+      "places": 4,
+      "duree": 150,
+      "description": "Un atelier pratique pour apprendre : css grid : une mise en page responsive avec des contenus longs et des cartes de tailles différentes. Exercices guidés, corrections et support inclus.",
+      "date": "2026-12-05",
+      "format": "En ligne"
+    },
+    {
+      "id": "a8",
+      "titre": "API et fetch : gérer les erreurs réseau",
+      "niveau": "intermediaire",
+      "prix": 45,
+      "formateur": "Karim",
+      "places": 0,
+      "duree": 150,
+      "description": "Un atelier pratique pour apprendre : api et fetch : gérer les erreurs réseau. Exercices guidés, corrections et support inclus.",
+      "date": "2026-12-05",
+      "format": "En ligne"
+    },
+    {
+      "id": "a9",
+      "titre": "Figma : du besoin au prototype",
+      "niveau": "debutant",
+      "prix": 25,
+      "formateur": "Lina",
+      "places": 9,
+      "duree": 150,
+      "description": "Un atelier pratique pour apprendre : figma : du besoin au prototype. Exercices guidés, corrections et support inclus.",
+      "date": "2026-12-05",
+      "format": "En ligne"
+    },
+    {
+      "id": "a10",
+      "titre": "Formulaires : validation accessible",
+      "niveau": "intermediaire",
+      "prix": 35,
+      "formateur": "Sarah",
+      "places": 7,
+      "duree": 150,
+      "description": "Un atelier pratique pour apprendre : formulaires : validation accessible. Exercices guidés, corrections et support inclus.",
+      "date": "2026-12-05",
+      "format": "En ligne"
+    },
+    {
+      "id": "a11",
+      "titre": "Performance web : optimiser les médias",
+      "niveau": "avance",
+      "prix": 79,
+      "formateur": "Karim",
+      "places": 5,
+      "duree": 150,
+      "description": "Un atelier pratique pour apprendre : performance web : optimiser les médias. Exercices guidés, corrections et support inclus.",
+      "date": "2026-12-05",
+      "format": "En ligne"
+    },
+    {
+      "id": "a12",
+      "titre": "Next.js : découvrir le rendu serveur",
+      "niveau": "avance",
+      "prix": 89,
+      "formateur": "Lina",
+      "places": 6,
+      "duree": 150,
+      "description": "Un atelier pratique pour apprendre : next.js : découvrir le rendu serveur. Exercices guidés, corrections et support inclus.",
+      "date": "2026-12-05",
+      "format": "En ligne"
+    }
+  ],
+  "inscriptions": []
+}

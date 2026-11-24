@@ -1,0 +1,22 @@
+[
+  {
+    "route": "/ateliers",
+    "status": 200,
+    "texte_verifie": "Apprenez"
+  },
+  {
+    "route": "/ateliers/a1",
+    "status": 200,
+    "texte_verifie": "HTML/CSS"
+  },
+  {
+    "route": "/mon-espace",
+    "status": 200,
+    "texte_verifie": "Mes ateliers suivis"
+  },
+  {
+    "route": "/ateliers/absent",
+    "status": 200,
+    "texte_verifie": "Page introuvable"
+  }
+]

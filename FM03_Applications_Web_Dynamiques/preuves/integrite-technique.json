@@ -1,0 +1,90 @@
+{
+  "types.ts": {
+    "empreintes": {
+      "fm03-typescript": "c18bf7df56954959ae58d5234f8800f4cd79cd20240bb2a2f2c4d39e780fa174",
+      "react-skillhub": "c18bf7df56954959ae58d5234f8800f4cd79cd20240bb2a2f2c4d39e780fa174",
+      "nextjs-skillhub": "c18bf7df56954959ae58d5234f8800f4cd79cd20240bb2a2f2c4d39e780fa174"
+    },
+    "identiques": true
+  },
+  "services/api.ts": {
+    "empreintes": {
+      "fm03-typescript": "4baf58e07cdcb3dc99e9827c1218a41d2bf7928da8a8a34a1b0b083faebd38a7",
+      "react-skillhub": "4baf58e07cdcb3dc99e9827c1218a41d2bf7928da8a8a34a1b0b083faebd38a7",
+      "nextjs-skillhub": "4baf58e07cdcb3dc99e9827c1218a41d2bf7928da8a8a34a1b0b083faebd38a7"
+    },
+    "identiques": true
+  },
+  "any_explicite": [],
+  "donnees_initiales": 12,
+  "tests": {
+    "date": "2026-10-30T13:57:21.111Z",
+    "environnement": "Node + jsdom ; ne remplace pas un test visuel ni lecteur d’écran",
+    "results": [
+      {
+        "test": "API : 12 ateliers valides, 404 et validation POST",
+        "ok": true
+      },
+      {
+        "test": "FM03 : 12 cartes, filtres sans résultat, remise à zéro",
+        "ok": true
+      },
+      {
+        "test": "FM03 : menu délégué, sous-menu, Échap et focus",
+        "ok": true
+      },
+      {
+        "test": "FM03 : dialogue, fermeture et restauration du focus",
+        "ok": true
+      },
+      {
+        "test": "FM03 : validation liée au champ et double envoi",
+        "ok": true
+      },
+      {
+        "test": "FM03 : état lent",
+        "ok": true
+      },
+      {
+        "test": "FM03 : état vide",
+        "ok": true
+      },
+      {
+        "test": "FM03 : état 404",
+        "ok": true
+      },
+      {
+        "test": "FM03 : état offline",
+        "ok": true
+      },
+      {
+        "test": "React : filtre URL initial et inscription/annulation partagée",
+        "ok": true
+      },
+      {
+        "test": "React : état lent",
+        "ok": true
+      },
+      {
+        "test": "React : état vide",
+        "ok": true
+      },
+      {
+        "test": "React : état 404",
+        "ok": true
+      },
+      {
+        "test": "React : état offline",
+        "ok": true
+      },
+      {
+        "test": "React : route inconnue et titre du document",
+        "ok": true
+      },
+      {
+        "test": "React : profil formateur, validation et création API",
+        "ok": true
+      }
+    ]
+  }
+}

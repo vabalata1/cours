@@ -1,0 +1,16 @@
+
+> react-skillhub@1.0.0 build
+> tsc --noEmit && vite build
+
+vite v7.3.7 building client environment for production...
+transforming...
+node_modules/react-router/dist/development/index.mjs (11:0): Module level directives cause errors when bundled, "use client" in "node_modules/react-router/dist/development/index.mjs" was ignored.
+node_modules/react-router/dist/development/dom-export.mjs (1:0): Module level directives cause errors when bundled, "use client" in "node_modules/react-router/dist/development/dom-export.mjs" was ignored.
+✓ 57 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                      0.50 kB │ gzip:  0.34 kB
+dist/assets/index-Ck58LWhi.css       8.87 kB │ gzip:  2.64 kB
+dist/assets/Dashboard-Pk2DMGuK.js    2.33 kB │ gzip:  0.95 kB
+dist/assets/index-BV2fzO_o.js      277.06 kB │ gzip: 88.32 kB
+✓ built in 2.38s
