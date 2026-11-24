@@ -1,0 +1,1 @@
+Preuve de parcours public FUN MOOC, 30 septembre 2026. Le contenu complet du site tiers n’est pas redistribué. Se reporter aux captures et à la grille d’audit, qui limite ses conclusions aux deux tâches observées. Sources : https://www.fun-mooc.fr/fr/cours/ et fiche Python citée dans audit-nielsen.md.

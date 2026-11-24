@@ -1,0 +1,176 @@
+- link "Aller au contenu":
+  - /url: "#contenu"
+- banner:
+  - link "skillhub":
+    - /url: "#accroche"
+    - generic: s.
+    - text: skillhub
+    - generic: .
+  - navigation "Navigation principale":
+    - button "Menu"
+- main:
+  - region "Changez de cap. Apprenez en faisant.":
+    - paragraph: 01 / Votre prochaine compétence commence ici
+    - heading "Changez de cap. Apprenez en faisant." [level=1]:
+      - text: Changez de cap.
+      - text: Apprenez en faisant.
+    - paragraph: Des ateliers courts et concrets pour avancer vers votre prochain métier, accompagnés par des formateurs indépendants.
+    - link "Trouver mon premier atelier":
+      - /url: "#ateliers"
+    - paragraph: Pour débuter ou progresser · En ligne · Le soir
+    - figure "Apprendre ensemble, avancer à son rythme.":
+      - img "Un groupe travaille ensemble autour d’ordinateurs dans un atelier."
+      - generic: Apprendre ensemble, avancer à son rythme.
+      - generic: SH / 01
+  - region "Moins de jargon. Plus de pratique.":
+    - paragraph: Notre approche
+    - heading "Moins de jargon. Plus de pratique." [level=2]:
+      - text: Moins de jargon.
+      - text: Plus de pratique.
+    - paragraph: Un cadre clair pour vous concentrer sur ce que vous êtes venu apprendre.
+    - list:
+      - article:
+        - heading "Proximité" [level=3]
+        - paragraph: Des petits groupes pour poser vos questions.
+      - article:
+        - heading "Transparence" [level=3]
+        - paragraph: Le prix, le niveau et la durée annoncés avant l’inscription.
+      - article:
+        - heading "Pratique" [level=3]
+        - paragraph: Un exercice concret à chaque atelier.
+      - article:
+        - heading "Progression" [level=3]
+        - paragraph: Des étapes courtes, à votre rythme.
+      - article:
+        - heading "Souplesse" [level=3]
+        - paragraph: Des séances en ligne compatibles avec votre journée.
+      - article:
+        - heading "Accessibilité" [level=3]
+        - paragraph: Une interface lisible et utilisable au clavier.
+  - region "Un petit pas. Une vraie compétence.":
+    - paragraph: Le catalogue
+    - heading "Un petit pas. Une vraie compétence." [level=2]:
+      - text: Un petit pas.
+      - text: Une vraie compétence.
+    - paragraph: Choisissez un atelier selon votre niveau. Les prix et créneaux ci-dessous sont des exemples pédagogiques.
+    - form "Filtrer les ateliers":
+      - generic: Votre niveau
+      - combobox "Votre niveau":
+        - option "Tous les niveaux" [selected]
+        - option "Débutant"
+        - option "Intermédiaire"
+      - generic: Votre disponibilité
+      - combobox "Votre disponibilité":
+        - option "Tous les créneaux" [selected]
+        - option "Le soir"
+        - option "La journée"
+      - button "Afficher"
+      - button "Réinitialiser"
+    - status: 3 ateliers disponibles
+    - list:
+      - article:
+        - paragraph: 01 / Développement web
+        - paragraph: Débutant · Aucun prérequis
+        - heading "Votre première page en HTML et CSS" [level=3]
+        - paragraph: Structurez une page et donnez-lui une mise en forme claire.
+        - term: Durée
+        - definition: 2 heures
+        - term: Format
+        - definition: En ligne · Le soir
+        - term: Créneau
+        - definition: 8 octobre · 18 h–20 h
+        - term: Prix
+        - definition: 29 €
+        - 'link "Choisir cet atelier : Votre première page en HTML et CSS"':
+          - /url: "#inscription"
+          - text: Choisir cet atelier
+      - article:
+        - paragraph: 02 / Outils du développeur
+        - paragraph: Débutant · Aucun prérequis
+        - heading "Git, sans perdre le fil" [level=3]
+        - paragraph: Enregistrez vos étapes et retrouvez une version précédente.
+        - term: Durée
+        - definition: 1 h 30
+        - term: Format
+        - definition: En ligne · La journée
+        - term: Créneau
+        - definition: 10 octobre · 10 h–11 h 30
+        - term: Prix
+        - definition: 19 €
+        - 'link "Choisir cet atelier : Git, sans perdre le fil"':
+          - /url: "#inscription"
+          - text: Choisir cet atelier
+      - article:
+        - paragraph: 03 / Design d’interface
+        - paragraph: Intermédiaire · Bases HTML/CSS
+        - heading "Des interfaces accessibles au clavier" [level=3]
+        - paragraph: Construisez un menu et un formulaire que chacun peut utiliser.
+        - term: Durée
+        - definition: 2 heures
+        - term: Format
+        - definition: En ligne · Le soir
+        - term: Créneau
+        - definition: 15 octobre · 18 h–20 h
+        - term: Prix
+        - definition: 35 €
+        - 'link "Choisir cet atelier : Des interfaces accessibles au clavier"':
+          - /url: "#inscription"
+          - text: Choisir cet atelier
+  - region "Des personnes, avant des profils.":
+    - paragraph: L’accompagnement
+    - heading "Des personnes, avant des profils." [level=2]:
+      - text: Des personnes,
+      - text: avant des profils.
+    - paragraph: Trois profils fictifs pour illustrer le projet. Les photographies sont des images d’illustration.
+    - list:
+      - article:
+        - heading "Sarah Benali" [level=3]
+        - paragraph: Développement web
+        - paragraph: Comprendre les bases, puis construire une première page.
+      - article:
+        - heading "Karim Diallo" [level=3]
+        - paragraph: Git et collaboration
+        - paragraph: Des méthodes simples pour garder un projet organisé.
+      - article:
+        - heading "Lina Moreau" [level=3]
+        - paragraph: UX et accessibilité
+        - paragraph: Concevoir des interfaces faciles à comprendre et à utiliser.
+  - region "Votre prochain chapitre commence par un atelier.":
+    - paragraph: À vous de jouer
+    - heading "Votre prochain chapitre commence par un atelier." [level=2]:
+      - text: Votre prochain chapitre
+      - text: commence par un atelier.
+    - paragraph: Choisissez votre profil et votre atelier. Dans cette démonstration, aucun compte n’est créé et aucune donnée n’est envoyée.
+    - button "Comment se passe un atelier ?" [active]
+    - generic: Prénom
+    - textbox "Prénom": Test
+    - paragraph: Tous les champs sont obligatoires.
+    - text: "Erreur :"
+    - generic: Adresse électronique
+    - textbox "Adresse électronique": <redacted>
+    - paragraph: "Format attendu : nom@domaine.fr. Aucune donnée n’est enregistrée."
+    - text: "Erreur :"
+    - generic: Votre profil
+    - combobox "Votre profil":
+      - option "Choisissez votre profil"
+      - option "Je souhaite apprendre" [selected]
+      - option "Je souhaite proposer des ateliers"
+    - text: "Erreur :"
+    - generic: L’atelier qui vous intéresse
+    - combobox "L’atelier qui vous intéresse":
+      - option "Choisissez un atelier"
+      - option "Votre première page en HTML et CSS"
+      - option "Git, sans perdre le fil" [selected]
+      - option "Des interfaces accessibles au clavier"
+      - option "Je souhaite proposer un atelier"
+    - text: "Erreur :"
+    - button "Tester mon inscription"
+    - status: "Test réussi : les champs sont valides. Aucun compte n’a été créé, aucune inscription n’a été enregistrée et aucun courriel n’a été envoyé."
+- contentinfo:
+  - link "skillhub.":
+    - /url: "#accroche"
+  - paragraph:
+    - text: Projet pédagogique · Wissam Ben Zayed
+    - text: Formation CDWFS · IMIE Paris · 2026
+  - link "Crédits des médias":
+    - /url: credits.html

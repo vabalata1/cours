@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-30",
+  "menu": {
+    "entreeOuvre": true,
+    "tabLienVisible": true,
+    "echapFermeEtRendFocus": true
+  },
+  "filtres": {
+    "combinaisonVide": true,
+    "reinitialisationTroisAteliers": true
+  },
+  "formulaire": {
+    "videFocusPremierChamp": true,
+    "resumeQuatreErreurs": true,
+    "confirmationObservee": true,
+    "donneesEnvoyees": false
+  },
+  "dialog": {
+    "ouvertureClavier": true,
+    "echapFerme": true,
+    "retourFocus": true
+  },
+  "limites": [
+    "Lecteur d’écran non testé",
+    "Tests utilisateurs avec deux camarades à réaliser"
+  ]
+}
