@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Version initiale pédagogique — SkillHub — Des ateliers pour votre prochain métier</title>
+  <meta name="description" content="Découvrez des ateliers courts pour apprendre le web, avec des formateurs indépendants. Niveau, durée et prix visibles dès le catalogue.">
+  <link rel="icon" href="../../src/assets/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="../../src/assets/fonts/sora-600.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="base.css">
+  <script src="base.js" defer></script>
+<link rel="stylesheet" href="avant.css"></head>
+<body>
+  
+  <div class="page">
+    <header class="entete">
+      <div class="conteneur barre">
+        <a class="marque" href="#accroche" aria-label="SkillHub, accueil"><span class="marque-signe" aria-hidden="true">s.</span>skillhub<span class="marque-point" aria-hidden="true">.</span></a>
+        <nav aria-label="Navigation principale">
+          <button class="menu-bouton secondaire" id="btn-menu" type="button" aria-expanded="false" aria-controls="menu-principal" hidden>Menu</button>
+          <ul class="navigation" id="menu-principal">
+            <li><a href="#ateliers">Les ateliers</a></li>
+            <li><a href="#formateurs">Les formateurs</a></li>
+            <li><a href="#valeurs">Notre approche</a></li>
+            <li><a class="bouton compact" href="#inscription">Créer mon compte</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main id="contenu" tabindex="-1">
+      <section class="accroche conteneur" id="accroche" aria-labelledby="titre-accroche">
+        <div class="accroche-texte">
+          <p class="surtitre"><span aria-hidden="true">01 /</span> Votre prochaine compétence commence ici</p>
+          <h1 id="titre-accroche">Changez de cap.<br><span>Apprenez en faisant.</span></h1>
+          <p class="introduction">Des ateliers courts et concrets pour avancer vers votre prochain métier, accompagnés par des formateurs indépendants.</p>
+          <a class="bouton" href="#ateliers">Trouver mon premier atelier</a>
+          <p class="note-accroche">Pour débuter ou progresser · En ligne · Le soir</p>
+        </div>
+        <figure class="visuel-accroche">
+          <img src="images/atelier-original.jpg">
+          <figcaption><span class="image-legende">Apprendre ensemble, avancer à son rythme.</span><span class="image-index" aria-hidden="true">SH / 01</span></figcaption>
+        </figure>
+      </section>
+      <section class="valeurs" id="valeurs" aria-labelledby="titre-valeurs">
+        <div class="conteneur">
+          <div class="titre-section"><div><p class="surtitre">Notre approche</p><h2 id="titre-valeurs">Moins de jargon.<br>Plus de pratique.</h2></div><p>Un cadre clair pour vous concentrer sur ce que vous êtes venu apprendre.</p></div>
+          <ul class="valeurs-grille">
+            <li><article><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M4 12h16M12 4v16"/></svg><h3>Proximité</h3><p>Des petits groupes pour poser vos questions.</p></article></li>
+            <li><article><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M4 5h16v14H4zM8 9h8M8 13h5"/></svg><h3>Transparence</h3><p>Le prix, le niveau et la durée annoncés avant l’inscription.</p></article></li>
+            <li><article><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></svg><h3>Pratique</h3><p>Un exercice concret à chaque atelier.</p></article></li>
+            <li><article><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M4 19h16M6 16v-4M12 16V8M18 16V4"/></svg><h3>Progression</h3><p>Des étapes courtes, à votre rythme.</p></article></li>
+            <li><article><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M4 4h16v12H4zM9 20h6M12 16v4"/></svg><h3>Souplesse</h3><p>Des séances en ligne compatibles avec votre journée.</p></article></li>
+            <li><article><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M5 5h14v14H5zM9 9h6v6H9z"/></svg><h3>Accessibilité</h3><p>Une interface lisible et utilisable au clavier.</p></article></li>
+          </ul>
+        </div>
+      </section>
+      <section class="conteneur catalogue" id="ateliers" aria-labelledby="titre-ateliers">
+        <div class="titre-section"><div><p class="surtitre">Le catalogue</p><h2 id="titre-ateliers">Un petit pas.<br>Une vraie compétence.</h2></div><p>Choisissez un atelier selon votre niveau. Les prix et créneaux ci-dessous sont des exemples pédagogiques.</p></div>
+        <form class="filtres" id="filtres" hidden aria-label="Filtrer les ateliers">
+          <div><label for="niveau-filtre">Votre niveau</label><select id="niveau-filtre" name="niveau"><option value="tous">Tous les niveaux</option><option value="debutant">Débutant</option><option value="intermediaire">Intermédiaire</option></select></div>
+          <div><label for="horaire-filtre">Votre disponibilité</label><select id="horaire-filtre" name="horaire"><option value="tous">Tous les créneaux</option><option value="soir">Le soir</option><option value="jour">La journée</option></select></div>
+          <button class="secondaire" type="submit">Afficher</button><button class="secondaire" type="reset">Réinitialiser</button>
+        </form>
+        <p class="resultats" id="resultats" role="status" aria-live="polite" aria-atomic="true">3 ateliers disponibles</p>
+        <ul class="ateliers">
+          <li><article class="atelier" data-niveau="debutant" data-horaire="soir"><p class="categorie">01 / Développement web</p><p class="badge">Débutant · Aucun prérequis</p><h3>Votre première page en HTML et CSS</h3><p>Structurez une page et donnez-lui une mise en forme claire.</p><dl><div><dt>Durée</dt><dd>2 heures</dd></div><div><dt>Format</dt><dd>En ligne · Le soir</dd></div><div><dt>Créneau</dt><dd>8 octobre · 18 h–20 h</dd></div><div><dt>Prix</dt><dd class="prix">29 €</dd></div></dl><a class="bouton action" href="#inscription" data-atelier="Votre première page en HTML et CSS" aria-label="Choisir l’atelier : Votre première page en HTML et CSS">Choisir cet atelier</a></article></li>
+          <li><article class="atelier" data-niveau="debutant" data-horaire="jour"><p class="categorie">02 / Outils du développeur</p><p class="badge">Débutant · Aucun prérequis</p><h3>Git, sans perdre le fil</h3><p>Enregistrez vos étapes et retrouvez une version précédente.</p><dl><div><dt>Durée</dt><dd>1 h 30</dd></div><div><dt>Format</dt><dd>En ligne · La journée</dd></div><div><dt>Créneau</dt><dd>10 octobre · 10 h–11 h 30</dd></div><div><dt>Prix</dt><dd class="prix">19 €</dd></div></dl><a class="bouton action" href="#inscription" data-atelier="Git, sans perdre le fil" aria-label="Choisir l’atelier : Git, sans perdre le fil">Choisir cet atelier</a></article></li>
+          <li><article class="atelier" data-niveau="intermediaire" data-horaire="soir"><p class="categorie">03 / Design d’interface</p><p class="badge">Intermédiaire · Bases HTML/CSS</p><h3>Des interfaces accessibles au clavier</h3><p>Construisez un menu et un formulaire que chacun peut utiliser.</p><dl><div><dt>Durée</dt><dd>2 heures</dd></div><div><dt>Format</dt><dd>En ligne · Le soir</dd></div><div><dt>Créneau</dt><dd>15 octobre · 18 h–20 h</dd></div><div><dt>Prix</dt><dd class="prix">35 €</dd></div></dl><a class="bouton action" href="#inscription" data-atelier="Des interfaces accessibles au clavier" aria-label="Choisir l’atelier : Des interfaces accessibles au clavier">Choisir cet atelier</a></article></li>
+        </ul>
+        <p class="vide" id="catalogue-vide" hidden>Aucun atelier pour ces critères. Essayez un autre niveau ou un autre créneau.</p>
+      </section>
+      <section class="formateurs" id="formateurs" aria-labelledby="titre-formateurs">
+        <div class="conteneur"><div class="titre-section"><div><p class="surtitre">L’accompagnement</p><h2 id="titre-formateurs">Des personnes,<br>avant des profils.</h2></div><p>Trois profils fictifs pour illustrer le projet. Les photographies sont des images d’illustration.</p></div>
+          <ul class="formateurs-grille">
+            <li><article><img src="images/sarah-original.jpg"><h3>Sarah Benali</h3><p class="metier">Développement web</p><p>Comprendre les bases, puis construire une première page.</p></article></li>
+            <li><article><img src="images/karim-original.jpg"><h3>Karim Diallo</h3><p class="metier">Git et collaboration</p><p>Des méthodes simples pour garder un projet organisé.</p></article></li>
+            <li><article><img src="images/lina-original.jpg"><h3>Lina Moreau</h3><p class="metier">UX et accessibilité</p><p>Concevoir des interfaces faciles à comprendre et à utiliser.</p></article></li>
+          </ul>
+        </div>
+      </section>
+      <section class="conteneur inscription" id="inscription" aria-labelledby="titre-inscription">
+        <div><p class="surtitre">À vous de jouer</p><h2 id="titre-inscription">Votre prochain chapitre<br>commence par un atelier.</h2><p>Choisissez votre profil et votre atelier. Dans cette démonstration, aucun compte n’est créé et aucune donnée n’est envoyée.</p><button id="ouvrir-dialog" class="secondaire" type="button" hidden>Comment se passe un atelier ?</button></div>
+        <form id="form-inscription" class="formulaire">
+          <div class="champ"><label>Prénom</label><input id="prenom" name="prenom" type="text" autocomplete="given-name" required maxlength="80" aria-describedby="aide-prenom erreur-prenom"><p class="aide" id="aide-prenom">Tous les champs sont obligatoires.</p><p class="erreur" id="erreur-prenom" hidden></p></div>
+          <div class="champ"><label>Adresse électronique</label><input id="courriel" name="courriel" type="email" autocomplete="email" required maxlength="254" aria-describedby="aide-courriel erreur-courriel"><p class="aide" id="aide-courriel">Format attendu : nom@domaine.fr. Aucune donnée n’est enregistrée.</p><p class="erreur" id="erreur-courriel" hidden></p></div>
+          <div class="champ"><label>Votre profil</label><select id="profil" name="profil" required aria-describedby="erreur-profil"><option value="">Choisissez votre profil</option><option value="apprenant">Je souhaite apprendre</option><option value="formateur">Je souhaite proposer des ateliers</option></select><p class="erreur" id="erreur-profil" hidden></p></div>
+          <div class="champ"><label>L’atelier qui vous intéresse</label><select id="atelier-choisi" name="atelier" required aria-describedby="erreur-atelier-choisi"><option value="">Choisissez un atelier</option><option>Votre première page en HTML et CSS</option><option>Git, sans perdre le fil</option><option>Des interfaces accessibles au clavier</option><option>Je souhaite proposer un atelier</option></select><p class="erreur" id="erreur-atelier-choisi" hidden></p></div>
+          <div id="resume-erreurs" class="resume-erreurs" tabindex="-1" hidden></div>
+          <button class="bouton" id="envoyer" type="submit">Tester mon inscription</button>
+          <p class="confirmation" id="confirmation" role="status" aria-live="polite" aria-atomic="true"></p>
+          <noscript><p>Activez JavaScript pour tester l’inscription. Aucun service de création de compte n’est relié à cette page.</p></noscript>
+        </form>
+      </section>
+    </main>
+    <footer class="pied"><div class="conteneur pied-interieur"><a class="marque" href="#accroche" aria-label="SkillHub, retour en haut">skillhub.</a><p>Projet pédagogique · Wissam Ben Zayed<br>Formation CDWFS · IMIE Paris · 2026</p><a href="../../src/credits.html">Crédits des médias</a></div></footer>
+  </div>
+  <dialog id="dialog-atelier" aria-labelledby="titre-dialog" aria-describedby="texte-dialog">
+    <div class="dialog-interieur"><p class="surtitre">Votre premier atelier</p><h2 id="titre-dialog">Apprendre, essayer, échanger.</h2><p id="texte-dialog">Une séance en ligne en petit groupe : une explication, un exercice guidé et un temps pour vos questions. Le niveau, le créneau et le prix sont annoncés sur chaque carte.</p><p>Sur cette version pédagogique, les ateliers et les inscriptions sont des exemples.</p><button class="bouton" id="fermer-dialog" type="button" autofocus>Fermer</button></div>
+  </dialog>
+</body>
+</html>
+

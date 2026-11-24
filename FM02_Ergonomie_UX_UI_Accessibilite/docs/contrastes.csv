@@ -1,0 +1,13 @@
+﻿Usage;Premier plan;Fond;Ratio;Seuil;Verdict
+Texte sur blanc;#0b2540;#ffffff;15.52;4.5;Conforme au seuil testé
+Secondaire sur blanc;#475569;#ffffff;7.58;4.5;Conforme au seuil testé
+Blanc sur accent;#ffffff;#b45309;5.02;4.5;Conforme au seuil testé
+Texte sur surface;#0b2540;#f1f4f8;14.07;4.5;Conforme au seuil testé
+Secondaire sur surface;#475569;#f1f4f8;6.87;4.5;Conforme au seuil testé
+Accent sur surface;#b45309;#f1f4f8;4.55;4.5;Conforme au seuil testé
+Bordure sur blanc;#64748b;#ffffff;4.76;3;Conforme au seuil testé
+Focus sur blanc;#0b2540;#ffffff;15.52;3;Conforme au seuil testé
+Focus sur surface;#0b2540;#f1f4f8;14.07;3;Conforme au seuil testé
+Erreur sur blanc;#a51d2d;#ffffff;7.46;4.5;Conforme au seuil testé
+Erreur sur surface;#a51d2d;#f1f4f8;6.77;4.5;Conforme au seuil testé
+Succès sur blanc;#17613d;#ffffff;7.46;4.5;Conforme au seuil testé

@@ -1,0 +1,26 @@
+[
+  {
+    "debordement": false,
+    "document": 305,
+    "images": true,
+    "largeur": 320
+  },
+  {
+    "debordement": false,
+    "document": 345,
+    "images": true,
+    "largeur": 360
+  },
+  {
+    "debordement": false,
+    "document": 753,
+    "images": true,
+    "largeur": 768
+  },
+  {
+    "debordement": false,
+    "document": 1265,
+    "images": true,
+    "largeur": 1280
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "avant": {
+    "performance": 0.58,
+    "accessibility": 0.81,
+    "best-practices": 1,
+    "seo": 0.91
+  },
+  "apres": {
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  "metriques": [
+    [
+      "Performance",
+      "58/100",
+      "100/100"
+    ],
+    [
+      "LCP",
+      "82.82 s",
+      "1.67 s"
+    ],
+    [
+      "CLS",
+      "0.331",
+      "0.000"
+    ],
+    [
+      "TBT",
+      "0 ms",
+      "55 ms"
+    ]
+  ],
+  "conditions": "Lighthouse 12.8.2, navigateur 154.0.0.0, mode mobile, ralentissement simulate, profil neuf sans extensions. Serveur HTTP local, réseau et machine de l’environnement. Une mesure par état final, valeurs variables d’un appareil à l’autre."
+}

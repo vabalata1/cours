@@ -1,0 +1,47 @@
+{
+  "couleurs": {
+    "fond": "#ffffff",
+    "texte": "#0b2540",
+    "secondaire": "#475569",
+    "accent": "#b45309",
+    "surface": "#f1f4f8"
+  },
+  "typographie_rem": [
+    0.875,
+    1,
+    1.25,
+    1.563,
+    1.953
+  ],
+  "espacement_rem": [
+    0.25,
+    0.5,
+    0.75,
+    1,
+    1.5,
+    2,
+    3
+  ],
+  "rayons_rem": [
+    0.5,
+    1
+  ],
+  "paliers_px": [
+    360,
+    768,
+    1280
+  ],
+  "etats": [
+    "repos",
+    "survol",
+    "focus",
+    "actif",
+    "désactivé",
+    "erreur"
+  ],
+  "police": "Sora",
+  "graisses": [
+    400,
+    600
+  ]
+}
